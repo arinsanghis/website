@@ -1,0 +1,47 @@
+#index{
+background: linear-gradient(#87CEFA, #B7E953);
+height: 210px;	
+}
+#logo{
+	float: left;
+}
+#text1{
+	float: center;
+	color: black;
+	font-size: 70px;
+}
+#text2{
+	float: right;
+	color: black;
+	font-size: 30px;
+	margin-top: 60px;
+}
+#index1{
+	background: linear-gradient(#87CEFA, #B7E953);
+	margin-top: 20px;
+	height: 400px;
+}
+#text3{
+	color: black;
+	font-size: 30px;
+}
+td , th {
+	font-size: 20px;
+	text-align: center;
+}
+#index2{
+	background: linear-gradient(#87CEFA, #B7E953);
+	margin-top: 20px;
+}
+#text4{
+	color: black;
+	font-size: 30px;
+}
+#index3{
+	background: linear-gradient(#87CEFA, #B7E953);
+	margin-top: 20px;
+}
+#text5{
+	color: black;
+	font-size: 20px;
+}
